@@ -1,0 +1,34 @@
+/* Google Font style */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+/* Top Banner Backgroud Image  */
+
+.nav-banner-bg {
+   background-image: url(../backgroud/Group\ 33064.png);
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+/* Top-Banner Backgroud Image  */
+.top-banner-bg {
+   background-image: url("../backgroud/rectangle-25.png");
+}
+/* Header Font  */
+.header-title {
+   font-family: "Bebas Neue", cursive;
+   font-size: 80px;
+   line-height: 80px;
+}
+/* Top Banner Header Style  */
+.header-stlye {
+   color: #fabe4c;
+}
+
+/* Top Banner Button Style */
+.button-link {
+   padding: 15px 30px;
+   background: linear-gradient(180deg, #a4bc46 0%, #85a019 100%);
+   color: white;
+   border: 0;
+   border-radius: 10px;
+}
