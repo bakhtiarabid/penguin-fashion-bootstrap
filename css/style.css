@@ -1,5 +1,5 @@
 /* Google Font style */
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap");
 
 /* Top Banner Backgroud Image  */
 
@@ -31,4 +31,34 @@
    color: white;
    border: 0;
    border-radius: 10px;
+}
+
+/* Price Tag Style */
+
+.price-tag {
+   font-family: "Roboto", sans-serif;
+   color: #fabe4c;
+   font-size: 36px;
+   font-weight: 900;
+   font-family: ;
+}
+.item-border {
+   border-radius: 5%;
+}
+.jack-img {
+   /* background-image: url(../backgroud/Rectangle\ 29.png); */
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: 400px;
+}
+
+.jack2 img {
+}
+
+.cont-size {
+   width: 35%;
+}
+
+.radius {
+   border-radius: 25px;
 }
