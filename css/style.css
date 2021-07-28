@@ -46,19 +46,38 @@
    border-radius: 5%;
 }
 .jack-img {
+   background-color: grey;
    /* background-image: url(../backgroud/Rectangle\ 29.png); */
    background-repeat: no-repeat;
    background-position: center;
    background-size: 400px;
 }
+.jack img {
+   border-radius: 25px;
+}
 
 .jack2 img {
+   height: 25rem;
 }
 
 .cont-size {
    width: 35%;
 }
 
+.jack3 img {
+   height: 25rem;
+}
+
 .radius {
    border-radius: 25px;
+}
+
+/* Bottom Left Banner */
+.bottom-left-banner {
+   width: 445px;
+   border-radius: 20px;
+}
+
+.man img {
+   height: 26.25rem;
 }
