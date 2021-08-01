@@ -46,11 +46,12 @@
    border-radius: 5%;
 }
 .jack-img {
-   background-color: grey;
+   background-color: rgba(128, 128, 128, 0.151);
    /* background-image: url(../backgroud/Rectangle\ 29.png); */
    background-repeat: no-repeat;
    background-position: center;
    background-size: 400px;
+   border-radius: 25px;
 }
 .jack img {
    border-radius: 25px;
@@ -80,4 +81,34 @@
 
 .man img {
    height: 26.25rem;
+}
+
+/*-----------------
+ Footer Style
+ ----------------- */
+.footer-bg-info {
+   background-color: black;
+}
+
+div > ul > li {
+   list-style: none;
+   margin-right: 25px;
+}
+
+div > ul > li > a:hover {
+   color: white;
+}
+div > ul > li > a {
+   text-decoration: none;
+   color: white;
+}
+.copyright {
+   margin-left: 34px;
+}
+
+/* * {
+   border: 1px solid red;
+} */
+
+html {
 }
